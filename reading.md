@@ -79,3 +79,5 @@
 1. _Самурай без меча_ by Китами Масао [+] 208pp (17/01/2021)</br>
 1. _The Great Gatsby_ by Scott Fitzgerald [@] 218pp/04:28 (28/01/2021)</br>
 1. **_На імперыялістычнай вайне_ by Максім Гарэцкі [@] 171pp/07:25 (02/03/2021)**</br>
+1. **_Fundamentals of Software Architecture: An Engineering Approach_ by Mark Richards, Neal Ford [+] 396pp (23/05/2021)**</br>
+1. _Введение в поведение. История наук о том, что движет животными и как их правильно понимать_ by Борис Жуков [+] 400pp (27/06/2021)</br>
