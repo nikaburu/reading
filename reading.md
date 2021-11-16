@@ -82,3 +82,4 @@
 1. **_Fundamentals of Software Architecture: An Engineering Approach_ by Mark Richards, Neal Ford [+] 396pp (23/05/2021)**</br>
 1. _Введение в поведение. История наук о том, что движет животными и как их правильно понимать_ by Борис Жуков [+] 400pp (27/06/2021)</br>
 1. _The End of Eternity_ by Isaac Asimov [+] 196p (01/09/2021)</br>
+1. _Введение в общую психологию_ by Юлия Гиппенрейтер [+] 352p (14/11/2021)</br>
