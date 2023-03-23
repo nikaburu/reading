@@ -88,3 +88,4 @@
 1. _Мужчина в меняющемся мире_ by Игорь Кон [+] 496з (21/07/2022)</br>
 1. _A Short History of Ireland, 1500-2000_ by John Gibney [+] 296p (28/09/2022)</br>
 1. _The Naked Sun_ by Isaac Asimov [+] 288p (18/01/2023)</br>
+1. _I, Robot_ by Isaac Asimov [+] 253p (05/02/2023)</br>
