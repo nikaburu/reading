@@ -90,3 +90,4 @@
 1. _The Naked Sun_ by Isaac Asimov [+] 288p (18/01/2023)</br>
 1. _I, Robot_ by Isaac Asimov [+] 253p (05/02/2023)</br>
 1. _Attached: The New Science of Adult Attachment_ by Amir Levine, Rachel Heller [+] 304p (29/04/2023)</br>
+1. _Gossip Girl_ by Cecily von Ziegesar [+] 224p (05/05/2023)</br>
