@@ -92,3 +92,4 @@
 1. _Attached: The New Science of Adult Attachment_ by Amir Levine, Rachel Heller [+] 304p (29/04/2023)</br>
 1. _Gossip Girl_ by Cecily von Ziegesar [+] 224p (05/05/2023)</br>
 1. _Озеро Радости: Роман_ by Виктор Мартинович [+] 416p (07/06/2023)</br>
+1. _Gossip Girl 2: You Know You Love Me_ by Cecily von Ziegesar [+] 256p (19/06/2023)</br>
