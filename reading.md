@@ -93,3 +93,5 @@
 1. _Gossip Girl_ by Cecily von Ziegesar [+] 224p (05/05/2023)</br>
 1. _Озеро Радости: Роман_ by Виктор Мартинович [+] 416p (07/06/2023)</br>
 1. _Gossip Girl 2: You Know You Love Me_ by Cecily von Ziegesar [+] 256p (19/06/2023)</br>
+1. _Gossip Girl 3: All I Want is Everything_ by Cecily von Ziegesar [+] 240p (11/07/2023)</br>
+1. _Why Therapy Works_ by Louis Cozolino [+] 288p (13/07/2023)</br>
