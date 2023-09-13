@@ -81,19 +81,20 @@
 1. **_На імперыялістычнай вайне_ by Максім Гарэцкі [@] 171pp/07:25 (02/03/2021)**</br>
 1. **_Fundamentals of Software Architecture: An Engineering Approach_ by Mark Richards, Neal Ford [+] 396pp (23/05/2021)**</br>
 1. _Введение в поведение. История наук о том, что движет животными и как их правильно понимать_ by Борис Жуков [+] 400pp (27/06/2021)</br>
-1. _The End of Eternity_ by Isaac Asimov [+] 196p (01/09/2021)</br>
-1. _Введение в общую психологию_ by Юлия Гиппенрейтер [+] 352p (14/11/2021)</br>
-1. _The Caves of Steel_ by Isaac Asimov [+] 288p (20/11/2021)</br>
-1. _Хлопок одной ладонью_ by Николай Кукушкин [+] 542p (07/12/2021)</br>
-1. _Мужчина в меняющемся мире_ by Игорь Кон [+] 496з (21/07/2022)</br>
-1. _A Short History of Ireland, 1500-2000_ by John Gibney [+] 296p (28/09/2022)</br>
-1. _The Naked Sun_ by Isaac Asimov [+] 288p (18/01/2023)</br>
-1. _I, Robot_ by Isaac Asimov [+] 253p (05/02/2023)</br>
-1. _Attached: The New Science of Adult Attachment_ by Amir Levine, Rachel Heller [+] 304p (29/04/2023)</br>
-1. _Gossip Girl_ by Cecily von Ziegesar [+] 224p (05/05/2023)</br>
-1. _Озеро Радости: Роман_ by Виктор Мартинович [+] 416p (07/06/2023)</br>
-1. _Gossip Girl 2: You Know You Love Me_ by Cecily von Ziegesar [+] 256p (19/06/2023)</br>
-1. _Gossip Girl 3: All I Want is Everything_ by Cecily von Ziegesar [+] 240p (11/07/2023)</br>
-1. _Why Therapy Works_ by Louis Cozolino [+] 288p (13/07/2023)</br>
-1. _Pebble in the Sky_ by Isaac Asimov [+] 256p (22/07/2023)</br>
-1. _Gossip Girl 4: Because I'm Worth it_ by Cecily von Ziegesar [+] 234p (03/09/2023)</br>
+1. _The End of Eternity_ by Isaac Asimov [+^] 196pp (01/09/2021)</br>
+1. _Введение в общую психологию_ by Юлия Гиппенрейтер [+] 352pp (14/11/2021)</br>
+1. _The Caves of Steel_ by Isaac Asimov [+^] 288pp (20/11/2021)</br>
+1. _Хлопок одной ладонью_ by Николай Кукушкин [+] 542pp (07/12/2021)</br>
+1. _Мужчина в меняющемся мире_ by Игорь Кон [+] 496pp (21/07/2022)</br>
+1. **_A Short History of Ireland, 1500-2000_ by John Gibney [+] 296pp (28/09/2022)**</br>
+1. _The Naked Sun_ by Isaac Asimov [+] 288pp (18/01/2023)</br>
+1. _I, Robot_ by Isaac Asimov [+] 253pp (05/02/2023)</br>
+1. _Attached: The New Science of Adult Attachment_ by Amir Levine, Rachel Heller [+] 304pp (29/04/2023)</br>
+1. _Gossip Girl_ by Cecily von Ziegesar [+] 224pp (05/05/2023)</br>
+1. _Озеро Радости: Роман_ by Виктор Мартинович [+] 416pp (07/06/2023)</br>
+1. _Gossip Girl 2: You Know You Love Me_ by Cecily von Ziegesar [+] 256pp (19/06/2023)</br>
+1. _Gossip Girl 3: All I Want is Everything_ by Cecily von Ziegesar [+] 240pp (11/07/2023)</br>
+1. _Why Therapy Works_ by Louis Cozolino [+] 288pp (13/07/2023)</br>
+1. _Pebble in the Sky_ by Isaac Asimov [+] 256pp (22/07/2023)</br>
+1. _Gossip Girl 4: Because I'm Worth it_ by Cecily von Ziegesar [+] 234pp (03/09/2023)</br>
+1. _Climate Change as Class War: Building Socialism on a Warming Planet_ by Matthew T. Huber [+] 320pp (08/09/2023)</br>
