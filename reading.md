@@ -99,3 +99,4 @@
 1. _Gossip Girl 4: Because I'm Worth it_ by Cecily von Ziegesar [+] 234pp (03/09/2023)</br>
 1. _Climate Change as Class War: Building Socialism on a Warming Planet_ by Matthew T. Huber [+] 320pp (08/09/2023)</br>
 1. _The Stars, Like Dust_ by Isaac Asimov [+] 235pp (18/10/2023)</br>
+1. _Eleanor Oliphant is Completely Fine_ by Gail Honeyman [+] 385pp (23/11/2023)</br>
