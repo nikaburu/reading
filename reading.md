@@ -101,3 +101,5 @@
 1. _The Stars, Like Dust_ by Isaac Asimov [+] 235pp (18/10/2023)</br>
 1. _Eleanor Oliphant is Completely Fine_ by Gail Honeyman [+] 385pp (23/11/2023)</br>
 1. _Антихрупкость в IT_ by Александр Бындю [+] 178pp (27/01/2024)</br>
+1. _No More Mr. Nice Guy_ by Robert A. Glover [+] 204pp (05/02/2024)</br>
+1. _Мифы об эволюции человека_ by Александр Соколов [+] 390pp (18/02/2024)</br>
