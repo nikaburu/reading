@@ -105,3 +105,4 @@
 1. _Мифы об эволюции человека_ by Александр Соколов [+] 390pp (18/02/2024)</br>
 1. _Канбан Метод. Базовая практика_ by Алексей Пименов [+] 264pp (21/02/2024)</br>
 1. _Gossip Girl 5: I Like It Like That_ by Cecily von Ziegesar [+] 208pp (21/02/2024)</br>
+1. _The Currents of Space_ by Isaac Asimov [+] 240pp (26/02/2024)</br>
