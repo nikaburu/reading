@@ -109,3 +109,4 @@
 1. _Men's Work: A Practical Guide to Face Your Darkness, End Self-Sabotage, and Find Freedom_ by Connor Beaton [+] 272pp (03/03/2024)</br>
 1. _Атлант расправил плечи (краткая версия)_ by Айн Рэнд [@^] 13:32 (13/03/2024)</br>
 1. **_The Millionaire Next Door_ by Thomas J. Stanley [+] 272pp (19/05/2024)**</br>
+1. **_Good Material_ by Dolly Alderton [+] 352pp (26/06/2024)**</br>
