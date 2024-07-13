@@ -103,10 +103,11 @@
 1. _Антихрупкость в IT_ by Александр Бындю [+] 178pp (27/01/2024)</br>
 1. _No More Mr. Nice Guy_ by Robert A. Glover [+] 204pp (05/02/2024)</br>
 1. _Мифы об эволюции человека_ by Александр Соколов [+] 390pp (18/02/2024)</br>
-1. _Канбан Метод. Базовая практика_ by Алексей Пименов [+] 264pp (21/02/2024)</br>
+1. **_Канбан Метод. Базовая практика_ by Алексей Пименов [+] 264pp (21/02/2024)**</br>
 1. _Gossip Girl 5: I Like It Like That_ by Cecily von Ziegesar [+] 208pp (21/02/2024)</br>
 1. _The Currents of Space_ by Isaac Asimov [+] 240pp (26/02/2024)</br>
 1. _Men's Work: A Practical Guide to Face Your Darkness, End Self-Sabotage, and Find Freedom_ by Connor Beaton [+] 272pp (03/03/2024)</br>
 1. _Атлант расправил плечи (краткая версия)_ by Айн Рэнд [@^] 13:32 (13/03/2024)</br>
 1. **_The Millionaire Next Door_ by Thomas J. Stanley [+] 272pp (19/05/2024)**</br>
-1. **_Good Material_ by Dolly Alderton [+] 352pp (26/06/2024)**</br>
+1. _Good Material_ by Dolly Alderton [+] 352pp (26/06/2024)</br>
+1. _Who Says Elephants Can't Dance?: Leading a Great Enterprise Through Dramatic Change_ by Louis V. Gerstner Jr. [+] 304pp (13/07/2024)</br>
