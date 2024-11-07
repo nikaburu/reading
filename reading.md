@@ -114,3 +114,4 @@
 1. _Who Says Elephants Can't Dance?: Leading a Great Enterprise Through Dramatic Change_ by Louis V. Gerstner Jr. [+] 304pp (13/07/2024)</br>
 1. **_How Vaccines Work: The Science and History Behind Every Question You’ve Wanted to Ask_ by David Miles [#] 472pp (17/07/2024)**</br>
 1. _What They Don't Teach You about Money_ by Claer Barrett [#] 288pp (03/11/2024)</br>
+1. _The Order of Time_ by Carlo Rovelli [#] 224pp (07/11/2024)</br>
