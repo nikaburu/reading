@@ -115,3 +115,4 @@
 1. **_How Vaccines Work: The Science and History Behind Every Question You’ve Wanted to Ask_ by David Miles [#] 472pp (17/07/2024)**</br>
 1. _What They Don't Teach You about Money_ by Claer Barrett [#] 288pp (03/11/2024)</br>
 1. _The Order of Time_ by Carlo Rovelli [#] 224pp (07/11/2024)</br>
+1. _Seven Brief Lessons on Physics_ by Carlo Rovelli [#] 96pp (08/11/2024)</br>
