@@ -117,3 +117,4 @@
 1. _The Order of Time_ by Carlo Rovelli [#] 224pp (07/11/2024)</br>
 1. _Seven Brief Lessons on Physics_ by Carlo Rovelli [#] 96pp (08/11/2024)</br>
 1. _The Modern Family: Relationships and the Law_ by Tim Bracken [#] 210pp (07/12/2024)</br>
+1. _The Existential Pleasures of Engineering_ by Samuel C. Florman [+] 224pp (08/12/2024)</br>
