@@ -119,3 +119,4 @@
 1. _The Modern Family: Relationships and the Law_ by Tim Bracken [#] 210pp (07/12/2024)</br>
 1. _The Existential Pleasures of Engineering_ by Samuel C. Florman [+] 224pp (08/12/2024)</br>
 1. _I Am Ozzy_ by Chris Ayres, Ozzy Osbourne [+] 416pp (22/12/2024)</br>
+1. _Mastery: The Keys to Success and Long-Term Fulfillment_ by George Leonard [+] 176pp (11/01/2025)</br>
