@@ -120,3 +120,5 @@
 1. _The Existential Pleasures of Engineering_ by Samuel C. Florman [+] 224pp (08/12/2024)</br>
 1. _I Am Ozzy_ by Chris Ayres, Ozzy Osbourne [+] 416pp (22/12/2024)</br>
 1. _Mastery: The Keys to Success and Long-Term Fulfillment_ by George Leonard [+] 176pp (11/01/2025)</br>
+1. _Что такое наука, и как она работает_ by Джеймс Цимринг [+] 326pp (02/02/2025)</br>
+1. _CERN and the Higgs Boson: The Global Quest for the Building Blocks of Reality_ by James Gillies [#] 176pp (02/02/2025)</br>
