@@ -123,3 +123,4 @@
 1. _Что такое наука, и как она работает_ by Джеймс Цимринг [+] 326pp (02/02/2025)</br>
 1. _CERN and the Higgs Boson: The Global Quest for the Building Blocks of Reality_ by James Gillies [#] 176pp (02/02/2025)</br>
 1. _Material World: The Six Raw Materials That Shape Modern Civilization_ by Ed Conway [+] 512pp (16/03/2025)</br>
+1. _Введение в философию_ by Владимир Мацкевич [#] 428pp (24/03/2025)</br>
