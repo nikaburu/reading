@@ -127,3 +127,4 @@
 1. _Хвілінка. Тры гісторыі_ by Ігар Бабкоў [@^] 231pp/6:46 (24/03/2025)</br>
 1. _Eight Dates: Essential Conversations for a Lifetime of Love_ by John Gottman [+] 224pp (11/06/2025)</br>
 1. _The idea of the university_ by Karl Jaspers [#] 149pp (07/07/2025)</br>
+1. _Altered Carbon_ by Richard Morgan [+] 416pp (18/07/2025)</br>
