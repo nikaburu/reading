@@ -55,7 +55,7 @@
 1. _Женщина. Учебник для мужчин_ by Олег Новоселов [+] 464pp (22/09/2019)</br>
 1. **_Дзікае паляванне караля Стаха_ by Уладзімір Караткевіч [+] 493pp (24/09/2019)**</br>
 1. **_Sex Power Money_ by Sara Pascoe [+] 352pp (12/10/2019)**</br>
-1. _Егор Гайдар: Гибель империи. Уроки для современной России_ by Егор Гайдар [+] 592pp (19/10/2019)</br>
+1. _Гибель империи. Уроки для современной России_ by Егор Гайдар [+] 592pp (19/10/2019)</br>
 1. _97 Things Every Software Architect Should Know_ by Richard Monson-Haefel [+] 222p (26/10/2019)</br>
 1. **_Surely you're joking, Mr Feynman!_ by Richard Feynman [+^] 352pp (30/10/2019)**</br>
 1. _Хвілінка. Тры гісторыі_ by Ігар Бабкоў [+] 231pp (02/11/2019)</br>
@@ -128,3 +128,4 @@
 1. _Eight Dates: Essential Conversations for a Lifetime of Love_ by John Gottman [+] 224pp (11/06/2025)</br>
 1. _The idea of the university_ by Karl Jaspers [#] 149pp (07/07/2025)</br>
 1. _Altered Carbon_ by Richard Morgan [+] 416pp (18/07/2025)</br>
+1. _Отвечая за себя_ by Владимир Мацкевич [+] 170pp (25/07/2025)</br>
