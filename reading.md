@@ -129,3 +129,4 @@
 1. _The idea of the university_ by Karl Jaspers [#] 149pp (07/07/2025)</br>
 1. _Altered Carbon_ by Richard Morgan [+] 416pp (18/07/2025)</br>
 1. _Отвечая за себя_ by Владимир Мацкевич [+] 170pp (25/07/2025)</br>
+1. _The Software Architect Elevator_ by Gregor Hohpe [+] 365pp (29/07/2025)</br>
