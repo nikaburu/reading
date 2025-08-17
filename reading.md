@@ -131,3 +131,4 @@
 1. _Отвечая за себя_ by Владимир Мацкевич [+] 170pp (25/07/2025)</br>
 1. _The Software Architect Elevator_ by Gregor Hohpe [+] 365pp (29/07/2025)</br>
 1. _Are You Experienced?_ by William Sutcliffe [+^] 233pp (13/08/2025)</br>
+1. _Date-onomics: How Dating Became a Lopsided Numbers Game_ by Jon Birger [+] 224pp (17/08/2025)</br>
