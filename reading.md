@@ -134,3 +134,4 @@
 1. _Date-onomics: How Dating Became a Lopsided Numbers Game_ by Jon Birger [+] 224pp (17/08/2025)</br>
 1. _Foundation and Empire_ by Isaac Asimov [+^] 240pp (31/08/2025)</br>
 1. _Second Foundation_ by Isaac Asimov [+^] 272pp (09/09/2025)</br>
+1. _Yellowface_ by Rebecca F. Kuang [+] 336pp (18/11/2025)</br>
