@@ -137,3 +137,4 @@
 1. _Yellowface_ by Rebecca F. Kuang [+] 336pp (18/11/2025)</br>
 1. _Ender's Game_ by Orson Scott Card [+^] 324pp (05/12/2025)</br>
 1. _Speaker for the Dead_ by Orson Scott Card [+] 400pp (18/12/2025)</br>
+1. _Антропология пола_ by Марина Бутовская [+] 256pp (20/02/2025)</br>
