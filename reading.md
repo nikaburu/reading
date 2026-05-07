@@ -139,3 +139,4 @@
 1. _Speaker for the Dead_ by Orson Scott Card [+] 400pp (18/12/2025)</br>
 1. _Антропология пола_ by Марина Бутовская [+] 256pp (20/02/2025)</br>
 1. _Solution Architecture Patterns for Enterprise: A Guide to Building Enterprise Software Systems_ by Chanaka Fernando [+] 388pp (24/03/2025)</br>
+1. _How to Do the Work: Recognize Your Patterns, Heal from Your Past, and Create Your Self_ by Nicole LePera [+] 320pp (06/05/2025)</br>
