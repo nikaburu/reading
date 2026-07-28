@@ -142,3 +142,4 @@
 1. _How to Do the Work: Recognize Your Patterns, Heal from Your Past, and Create Your Self_ by Nicole LePera [+] 320pp (06/05/2025)</br>
 1. _Foundation's Edge_ by Isaac Asimov [+] 432pp (20/06/2026)</br>
 1. _Inference Engineering_ by Philip Kiely [+] 259pp (07/07/2026)</br>
+1. _Africa Is Not a Country: Notes on a Bright Continent_ by Dipo Faloyin [+] 400pp (27/07/2026)</br>
