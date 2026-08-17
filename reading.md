@@ -56,7 +56,7 @@
 1. **_Дзікае паляванне караля Стаха_ by Уладзімір Караткевіч [+] 493pp (24/09/2019)**</br>
 1. **_Sex Power Money_ by Sara Pascoe [+] 352pp (12/10/2019)**</br>
 1. _Гибель империи. Уроки для современной России_ by Егор Гайдар [+] 592pp (19/10/2019)</br>
-1. _97 Things Every Software Architect Should Know_ by Richard Monson-Haefel [+] 222p (26/10/2019)</br>
+1. _97 Things Every Software Architect Should Know_ by Richard Monson-Haefel [+] 222pp (26/10/2019)</br>
 1. **_Surely you're joking, Mr Feynman!_ by Richard Feynman [+^] 352pp (30/10/2019)**</br>
 1. _Хвілінка. Тры гісторыі_ by Ігар Бабкоў [+] 231pp (02/11/2019)</br>
 1. **_Building Evolutionary Architectures_ by Neal Ford, Rebecca Parsons, Patrick Kua [+] 190pp (16/11/2019)**</br>
@@ -137,9 +137,10 @@
 1. _Yellowface_ by Rebecca F. Kuang [+] 336pp (18/11/2025)</br>
 1. _Ender's Game_ by Orson Scott Card [+^] 324pp (05/12/2025)</br>
 1. _Speaker for the Dead_ by Orson Scott Card [+] 400pp (18/12/2025)</br>
-1. _Антропология пола_ by Марина Бутовская [+] 256pp (20/02/2025)</br>
-1. _Solution Architecture Patterns for Enterprise: A Guide to Building Enterprise Software Systems_ by Chanaka Fernando [+] 388pp (24/03/2025)</br>
-1. _How to Do the Work: Recognize Your Patterns, Heal from Your Past, and Create Your Self_ by Nicole LePera [+] 320pp (06/05/2025)</br>
-1. _Foundation's Edge_ by Isaac Asimov [+] 432pp (20/06/2026)</br>
+1. _Антропология пола_ by Марина Бутовская [+] 256pp (20/02/2026)</br>
+1. _Solution Architecture Patterns for Enterprise: A Guide to Building Enterprise Software Systems_ by Chanaka Fernando [+] 388pp (24/03/2026)</br>
+1. _How to Do the Work: Recognize Your Patterns, Heal from Your Past, and Create Your Self_ by Nicole LePera [+] 320pp (06/05/2026)</br>
+1. _Foundation's Edge_ by Isaac Asimov [+^] 432pp (20/06/2026)</br>
 1. _Inference Engineering_ by Philip Kiely [+] 259pp (07/07/2026)</br>
 1. _Africa Is Not a Country: Notes on a Bright Continent_ by Dipo Faloyin [+] 400pp (27/07/2026)</br>
+1. _Rendezvous with Rama_ by Arthur C. Clarke [+] 256pp (16/08/2026)</br>
