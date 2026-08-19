@@ -144,3 +144,4 @@
 1. _Inference Engineering_ by Philip Kiely [+] 259pp (07/07/2026)</br>
 1. _Africa Is Not a Country: Notes on a Bright Continent_ by Dipo Faloyin [+] 400pp (27/07/2026)</br>
 1. _Rendezvous with Rama_ by Arthur C. Clarke [+] 256pp (16/08/2026)</br>
+1. _Building Evolutionary Architectures, 2nd Edition: Automated Software Governance_ by Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage [+] 262pp (18/08/2026)</br>
